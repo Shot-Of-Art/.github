@@ -2,10 +2,14 @@
 
 [![Watch the Video](https://img.youtube.com/vi/y6QLq9LdOiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=y6QLq9LdOiw)
 
-[Google Maps, New York Location, Shot Of Art, 226 positive reviews](https://g.co/kgs/1aTmKun)
-[Google Maps, Los Angeles Location, Shot Of Art, 72 positive reviews](https://g.co/kgs/e8PBPgb)
-[Google Maps, Chicago Location, Shot Of Art, 105 positive reviews](https://g.co/kgs/ozHYFXa)
-[Instagram 200,000+ community Shot Of Art](https://www.instagram.com/shot_of_art/?hl=en)
+[Google Maps, New York Location, Shot Of Art, 226 positive reviews](https://g.co/kgs/1aTmKun) + 
+[Google Maps, Los Angeles Location, Shot Of Art, 72 positive reviews](https://g.co/kgs/e8PBPgb) + 
+[Google Maps, Chicago Location, Shot Of Art, 105 positive reviews](https://g.co/kgs/ozHYFXa) + 
+[Instagram 200,000+ community of Shot Of Art USA 🇺🇸 ](https://www.instagram.com/shot_of_art/?hl=en)
+
+- [Aleksei Dolgikh list of Adverticing Networks for possible integration after ROMI calculation](https://github.com/Adverticing-Networks)
+- [Aleksei Dolgikh list of Affiliate Partner for possible integration after ROMI calculation](https://github.com/affiliate-partner)
+
 
 ### Key Points
 - The competitive analysis for Shot of Art appears accurate, with all mentioned competitors and franchise models being real entities in the experiential art entertainment space.
