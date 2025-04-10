@@ -1,4 +1,8 @@
-# Shot Of Art Franchise 
+# Shot Of Art Franchise Investment Attraction, Overview, Founders, Competitor Analysis | Aleksei Dolgikh CVO Scout VC, FO, PE & LP / GP
+
+Executive summary for investors by [Aleksei Dolgikh](https://github.com/alexdolbun): Shot of Art, co-founded by Nadia Kuzmina and Ilya Kuzmin in 2022, is an art studio franchise projecting rapid growth with an average current monthly turnover estimated at US$4 million per location and plans to scale to over 1,000 units if each generates US$1 million per month while needing strong banking support for rapid employee training; this expansion comes with inherent executive risks because a current team of around 30 employees would need to evolve into training 1,000 people at a slow pace—but the projected outcome is a US$1 billion turnover business valued with a market premium of 7×. Its vibrant competitors include Paint Nite—founded by Sean McGrail and Daniel Hermann, which raised US$13.2 million in its Series A funding round with investors such as Porchlight Equity and Finger Group; Muse Paintbar—launched in 2012 by Stan Finch and led by CEO Reese Bernard, with total funding around US$15 million and significant private equity backing including Chatham Capital; Pinot’s Palette—started in Houston by Craig Ceccanti and Charles Willis, whose franchise fees range from US$22,500 to US$27,500, attracting veteran franchisee discounts and financing support; Painting with a Twist—an industry pioneer founded in New Orleans by Cathy Deano and Renee Maloney, now co-owned by franchisee Todd Owen and investing between US$119,000 and US$256,000 per location with over 300 studios nationwide; and Color Me Mine—founded in 1991 with headquarters in Glendale, California, requiring initial investments between US$180,000 and US$438,000, paying 5% royalties and 1% marketing fees, and having expanded to over 113 locations under Franchise Group, with its growth recently boosted under new leadership—together, these franchises showcase how high growth is coupled with careful financial planning and executive control in a highly competitive market that blends creativity with scalable business models.
+
+Why? Because in a market where art and fun converge with solid financial engineering, the risk is as high as the potential reward, and only those who understand both the creative and numerical sides can truly succeed.
 
 [![Watch the Video](https://img.youtube.com/vi/y6QLq9LdOiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=y6QLq9LdOiw)
 
@@ -9,6 +13,8 @@
 
 - [Aleksei Dolgikh list of Adverticing Networks for possible integration after ROMI calculation](https://github.com/Adverticing-Networks)
 - [Aleksei Dolgikh list of Affiliate Partner for possible integration after ROMI calculation](https://github.com/affiliate-partner)
+
+[![Watch the Video](https://img.youtube.com/vi/hQKGJsc1zSo/maxresdefault.jpg)](https://www.youtube.com/watch?v=hQKGJsc1zSo)
 
 
 ### Key Points
